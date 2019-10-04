@@ -1,0 +1,16 @@
+
+Normal termination at 18:00:59 on 10/04/19
+
+Runtime statistics
+  Grid                 = 41 x 24
+  Maximum active cells = 409
+  Minimum active cells = 409
+  Segment lengths, m   = 233.0-550.0
+  Layer heights, m     = 1.0-1.0
+  Timestep
+    Total iterations   = 21022
+    # of violations    = 1
+    % violations       = .00
+    Average timestep   = 468 sec
+  Simulation time      = 114 days .05 hours
+  Total CPU runtime    = .09 min
